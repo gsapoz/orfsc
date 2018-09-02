@@ -16,3 +16,4 @@
 6. Enter `docker run -p 80:80 orfsc`
    1. If conflicts appear due to port usage, feel free to switch port number as such (ie: run -p 160:80)
 7. The web page will be available to access via **http://localhost**
+   1. In the off chance you run into an error that says "Whoops, looks like something went wrong." Terminate the server (Ctrl/Cmd+C) and Enter `composer self-update` followed by  `composer update`
