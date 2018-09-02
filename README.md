@@ -18,7 +18,7 @@
 7. The web page will be available to access via **http://localhost**
 8. After you've finished exploring the web page, terminate the connection by entering `cmd/control + C`
     
-###TroubleShooting###   
+### TroubleShooting ###   
 In the off chance you run into an error that reads "Whoops, looks like something went wrong." Terminate the connection and Enter the following commands:
 
 `composer self-update` 
